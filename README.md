@@ -1,5 +1,7 @@
 
-<h3 align="center">A Portfolio Assignment</h3>
+<h2 align="center">A Portfolio Assignment</h2>
+
+<h3>Live Demo: https://jackjay.netlify.app</h3>
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
